@@ -26,4 +26,4 @@ Ensure you have the following installed:
 
 1. Clone this repository or download the source code.
    ```bash
-  [clone https://github.com/your-repo/blog-application.git](https://github.com/Kawsikan29/SimpleBlog)
+git clone https://github.com/Kawsikan29/SimpleBlog.git
